@@ -1,0 +1,13 @@
+{
+  "name": "magic-claude-mon",
+  "owner": {
+    "name": "Toto"
+  },
+  "plugins": [
+    {
+      "name": "tokrate",
+      "source": "./plugins/tokrate"
+    }
+  ],
+  "description": "Claude Code monitoring mods: token throughput, TTFT, context and rate limits"
+}

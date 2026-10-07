@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+node_modules/
+# written by the engine on load
+plugins/*/.claude-plugin/types/
+plugins/*/tsconfig.json

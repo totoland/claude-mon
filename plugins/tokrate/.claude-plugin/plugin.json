@@ -1,0 +1,8 @@
+{
+  "name": "tokrate",
+  "version": "0.1.0",
+  "description": "Live tokens/sec, time-to-first-token, context % and 5h/7d limits in the status line, with a JSONL log and /tokrate report",
+  "author": {
+    "name": "Toto"
+  }
+}
